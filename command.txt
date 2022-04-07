@@ -1,0 +1,7 @@
+Commands:
+
+Install Jupyter
+pip install notebook
+
+Start Jupyter:
+jupyter notebook
